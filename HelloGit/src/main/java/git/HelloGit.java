@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("branch1");
         System.out.println("master提交");
         System.out.println("branch2");
+        System.out.println("web更新");
     }
 }
